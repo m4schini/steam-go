@@ -1,4 +1,4 @@
-module steam-go
+module github.com/m4schini/steam-go
 
 go 1.24
 
