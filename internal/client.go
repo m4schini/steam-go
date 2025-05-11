@@ -1,8 +1,8 @@
 package internal
 
 import (
+	"github.com/m4schini/steam-go/model"
 	"net/http"
-	"steam-go/model"
 )
 
 type ApiClient struct {

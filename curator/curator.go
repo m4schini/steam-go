@@ -4,9 +4,9 @@ import (
 	"context"
 	"encoding/json"
 	"github.com/PuerkitoBio/goquery"
+	"github.com/m4schini/steam-go/internal"
 	"go.uber.org/zap"
 	"net/http"
-	"steam-go/internal"
 	"strings"
 )
 

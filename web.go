@@ -2,8 +2,8 @@ package steam
 
 import (
 	"context"
-	"steam-go/internal"
-	"steam-go/webapi"
+	"github.com/m4schini/steam-go/internal"
+	"github.com/m4schini/steam-go/webapi"
 )
 
 type WebApi struct {

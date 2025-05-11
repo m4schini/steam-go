@@ -2,8 +2,8 @@ package steam
 
 import (
 	"context"
-	"steam-go/curator"
-	"steam-go/internal"
+	"github.com/m4schini/steam-go/curator"
+	"github.com/m4schini/steam-go/internal"
 )
 
 type CuratorApi struct {

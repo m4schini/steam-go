@@ -1,8 +1,8 @@
 package steam
 
 import (
+	"github.com/m4schini/steam-go/internal"
 	"net/http"
-	"steam-go/internal"
 )
 
 type ApiClientOption func(client *internal.ApiClient)
